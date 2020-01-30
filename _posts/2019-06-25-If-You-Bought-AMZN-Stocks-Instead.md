@@ -13,7 +13,9 @@ Have you ever wondered, what if I had used the money I spend shopping on Amazon 
 
 Please be prepared to cry though. Sorry. 😔
 
-## Now that you have made me cry, what’s the point of this tool?
+> EDIT on 2020-01-30: This project is on hiatus: The API I was using to pull historical/current stock data could not handle the load. Please give me a friendly nudge in the comments section if you are interested in this project!
+
+### Now that you have made me cry, what’s the point of this tool?
 My financial independence-savvy friend [Louis](https://www.youtube.com/watch?v=hLVGK6G34Q8) and I often discuss how to shape human behavior for making better financial decisions. The fundamental tenets of saving a lot and investing wisely are easier said than done, and there seems to be a lack of tools that bring money down to a visceral level, and illustrate how small behavioral changes lead to cumulative effects. So I hope this gSheet can help you the way it has helped me realize the impact of daily spending.
 
 ### Projects are created from solving unexpected frustrations
