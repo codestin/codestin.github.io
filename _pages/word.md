@@ -62,13 +62,13 @@ In a counter-intuitive fashion, Dr. Fox advised against well-defined projects, b
 
 ### Enclothed Cognition
 Dr. Fox encouraged giving ourselves symbolic reminders of our chosen word.
-1. **Phone wallpaper**: since I stare at my glowing rectangle too much anyway, might as well make it really glow:
+- **Phone wallpaper**: since I stare at my glowing rectangle too much anyway, might as well make it really glow:
 <p>
 <img src="/images/word_hearth_mobile_wallpaper.png" width="200"/></p>
-2. **Bic mini lighter**: A portable flame (also useful for camping trips)
+- **Bic mini lighter**: A portable flame (also useful for camping trips)
 <p>
 <img src="/images/word_hearth_lighter.jpg" width="200"/></p>
-3. **Website logo**: Hopefully you have noticed by now :)
+- **Website logo**: Hopefully you have noticed by now :)
 
 # How you can help
 My overt impeding pattern is perfectionism (which Dr. Fox calls "the prettiest of the self-sabotages.") I possess dragon hoards of unshared notes and half-written essays. You can help by prodding me to share a bit more of myself on this website, or co-creating something with me.
