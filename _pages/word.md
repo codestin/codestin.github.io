@@ -63,9 +63,9 @@ In a counter-intuitive fashion, Dr. Fox advised against well-defined projects, b
 ### Enclothed Cognition
 Dr. Fox encouraged giving ourselves symbolic reminders of our chosen word.
 1. **Phone wallpaper**: since I stare at my glowing rectangle too much anyway, might as well make it really glow:
-![](/images/word_hearth_mobile_wallpaper.png =250px)
+![](/images/word_hearth_mobile_wallpaper.png =250x)
 2. **Bic mini lighter**: A portable flame (also useful for camping trips)
-![](/images/word_hearth_lighter.png =250px)
+![](/images/word_hearth_lighter.png =250x)
 3. **Website logo**: Hopefully you have noticed by now :)
 
 # How you can help
