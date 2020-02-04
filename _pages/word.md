@@ -12,7 +12,7 @@ permalink: /word/
 ## Why does Dr. Fox recommend [heralding](https://www.drjasonfox.com/blog/herald-your-word) one's word on a page like this?
 In his words,
 
->In a nutshell: cultivated dissonance.  
+>"In a nutshell: cultivated dissonance.  
 
 >The Ritual of Becoming is an act of manifesting*—of ‘telling the truth  in advance’, so that you might live into it, make believe, and become it.
 
@@ -22,7 +22,7 @@ In his words,
 
 >> Yes, this is like an elegy for your past self—so that parts of you might die and rest in peace, so that new elements of ‘selfness’ might emerge.  
 
->Your ‘/word page’ helps you do this. It’s a living space for you to enshrine the insights from your Quest to find a Word for the year.  
+>Your ‘/word page’ helps you do this. It’s a living space for you to enshrine the insights from your Quest to find a Word for the year."
 
 So without further ado...
 
