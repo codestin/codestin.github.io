@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My Chosen Word for 2020
-permalink: /Word/
+permalink: /word/
 ---
 
 # Backstory: What is this?
