@@ -1,11 +1,11 @@
 ---
 layout: page
 title: My Chosen Word for 2020
-permalink: /word/
+permalink: /Word/
 ---
 
-# Backstory: What is this?
-- I chose the word **Hearth** based on "[Choose One Word](https://learn.cleverness.com/word/vposj)," a self-guided ritual taught by the Dr. Jason Fox. Dr. Fox is a metamodern wizard on a quest to create a world more curious and kind (with a PhD in motivational sciences.) The premise of the program is simple--choose one word that will guide behaviors, decisions, and goals for the year (or however long you wish.)
+# Backstory: What is Choose One Word?
+- [Choose One Word](https://learn.cleverness.com/word/vposj) is a self-guided annual ritual taught by the Dr. Jason Fox. Dr. Fox is a metamodern wizard on a quest to create a world more curious and kind (with a PhD in motivational sciences.) The premise of the program is simple--choose one word that will guide behaviors, decisions, and goals for the year (or however long you wish.)
 - Unlike most goal-setting programs, the witty Dr. Fox recommends against choosing certain types of words like happiness! Success! Etc., This is because it frees oneself from judging against what seems to be an objective metric at first glance, but is more-often-than-not an arbitrary one. (What is happiness? Success?) My word last year, which I had chosen before learning about the program, was "mastery." It served its purpose in that I spent the year honing 5 areas of my life (for which I will provide a retrospective) but there was a Sisyphean facet to the word that made it less useful.
 - Instead, active, aspect, or archetypal words are preferred because they carry less of an inherent measuring-stick quality. In short, **the chosen word is a beacon of light that guides along pathways to future relevance.**
 
@@ -65,7 +65,7 @@ Dr. Fox encouraged giving ourselves symbolic reminders of our chosen word.
 1. **Phone wallpaper**: since I stare at my glowing rectangle too much anyway, might as well make it really glow:
 <img src="/images/word_hearth_mobile_wallpaper.png" width="200"/>
 2. **Bic mini lighter**: A portable flame (also useful for camping trips)
-<img src="/images/word_hearth_lighter.jpg" width="200"/>
+<img src="/images/word_hearth_lighter.png" width="200"/>
 3. **Website logo**: Hopefully you have noticed by now :)
 
 # How you can help
