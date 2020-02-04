@@ -12,17 +12,17 @@ permalink: /word/
 ## Why does Dr. Fox recommend [heralding](https://www.drjasonfox.com/blog/herald-your-word) one's word on a page like this?
 In his words,
 
->"In a nutshell: cultivated dissonance.  
+> "In a nutshell: cultivated dissonance.  
 
->The Ritual of Becoming is an act of manifesting*—of ‘telling the truth  in advance’, so that you might live into it, make believe, and become it.
+> The Ritual of Becoming is an act of manifesting*—of ‘telling the truth  in advance’, so that you might live into it, make believe, and become it.
 
->>Rational friends: don’t be dissuaded by my employment of magical realism. I have not descended into irrationality—merely sidestepped into para-rationality. Join in the programme and you’ll see. Sound reasonableness cloaked in glamour, ‘pon my Word.
+>> Rational friends: don’t be dissuaded by my employment of magical realism. I have not descended into irrationality—merely sidestepped into para-rationality. Join in the programme and you’ll see. Sound reasonableness cloaked in glamour, ‘pon my Word.
 
->Thus, after deep work in Reflecting, Introspecting and Projecting (RIP)* upon ‘who you are’ and ‘who you might be’—and after finding the most exquisite and apt Word to serve you in the next chapter of your unfurling story—you then must pave the way for Actualisation. This is the phase in which you begin to adopt and an integrate new Principles, Patterns and Projects in actuality.  
+> Thus, after deep work in Reflecting, Introspecting and Projecting (RIP)* upon ‘who you are’ and ‘who you might be’—and after finding the most exquisite and apt Word to serve you in the next chapter of your unfurling story—you then must pave the way for Actualisation. This is the phase in which you begin to adopt and an integrate new Principles, Patterns and Projects in actuality.  
 
 >> Yes, this is like an elegy for your past self—so that parts of you might die and rest in peace, so that new elements of ‘selfness’ might emerge.  
 
->Your ‘/word page’ helps you do this. It’s a living space for you to enshrine the insights from your Quest to find a Word for the year."
+> Your ‘/word page’ helps you do this. It’s a living space for you to enshrine the insights from your Quest to find a Word for the year."
 
 So without further ado...
 
