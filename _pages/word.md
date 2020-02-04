@@ -58,7 +58,7 @@ Dr. Fox recommended that behavioral patterns should be doable when motivation is
 In a counter-intuitive fashion, Dr. Fox advised against well-defined projects, but instead offer directionality and aspirations.
 1. Channel the energy of Andrew Yang in my vocational pursuits: if anything, I'm going to have the most fun!
 2. Continue to build micro-communities through meditation, listening, and helping others connect.
-3. Put up more work under this domain name: treat this website as my fridge door, not my *magnum opus*.
+3. Put up more writing online: treat this website as my fridge door, not my *magnum opus*.
 
 ### Enclothed Cognition
 Dr. Fox encouraged giving ourselves symbolic reminders of our chosen word.
