@@ -4,6 +4,8 @@ author: christin
 tags: [sticky, all]
 categories: [learning, piano, stories]
 
+---
+
 A friend had recently taken up the piano again after learning as a child, and I was reminded of my childhood piano learning experience. I had quit after passing the ABRSM level 4 exam, and later picked up other instruments such as the saxophone, the ukulele, and the native flute. I play at a basic level for these other forms of music-making, with the pre-conceived notion that piano was just not for me.
 
 I shared my past piano experience with this friend, which dredged up a lot of painful memories. The teachers I had were the old-school Chinese type--always playing to metronome, whacking of the hand for playing the wrong notes. I also remember that I hated practicing, because the piano was situated in the living room, and I remember always feeling a jolt of shock whenever someone walked by behind me since I couldn't see them coming. I remember the strict British ladies at the ABRSM exams who would just stare quietly as I desparately try to prima vista sight-read a piece I had not seen before.
