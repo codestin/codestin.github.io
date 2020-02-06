@@ -1,3 +1,5 @@
+---
+
 layout: post
 title: Re-learning Childhood Lessons
 author: christin
