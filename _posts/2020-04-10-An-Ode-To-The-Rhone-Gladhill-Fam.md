@@ -13,7 +13,7 @@ Patrick's recent post titled "[To Help and Be Helped](https://www.patrickrhone.n
 
 >Wu said, “It is like a person in the middle of the night whose hands feel back for the pillow.”
 
-The Bodhisattva of Great Compassion, also known as Guan Yin, Kannon*, and many other [names](https://en.wikipedia.org/wiki/Guanyin), is sometimes depicted with a thousand arms and eyes to allow him/her to help as many as possible. Yet, he/she does so in a natural way, without consciously dividing one's thinking into self and not-self. I wonder if passage can apply to accepting help as well--how can one learn to do so without self-consciousness? In the New Post-COVID-19 World, I sense a collective shift in how we help those around us. I'm lucky in that I feel others are more ready to give and receive.
+The Bodhisattva of Great Compassion, also known as Guan Yin, Kannon*, and many other [names](https://en.wikipedia.org/wiki/Guanyin), is sometimes depicted with a thousand arms and eyes to allow him/her to help as many as possible. Yet, he/she does so in a natural way, without consciously dividing one's thinking into self and not-self. I wonder if passage can apply to accepting help as well--how can one learn to do so without self-consciousness? In the New Post-COVID-19 World, I sense a collective shift in how we help those around us. I'm also lucky in that I feel others are more ready to give and receive.
 
 If you can't tell by now, I place Patrick and his family on a pedestal for their ability to keep me writing and contemplating, even when times are hard. I hope this short ode from a stranger on the internet can reflect all the hope and motivation they have given me throughout the years!
 
