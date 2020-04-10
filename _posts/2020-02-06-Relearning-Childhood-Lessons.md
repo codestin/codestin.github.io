@@ -2,7 +2,7 @@
 layout: post
 title: Re-learning Childhood Lessons
 author: christin
-categories: [creativity, cultivation]
+categories: [Creativity, Cultivation]
 ---
 A friend had recently taken up the piano again after learning as a child, and I was reminded of my childhood piano learning experience. I had quit after passing the Associated Board of the Royal Schools of Music (ABRSM) level 4 exam, and later picked up other instruments such as the saxophone, the ukulele, and the native flute. I play at a basic level for these other forms of music-making, with the pre-conceived notion that piano was just not for me.
 
