@@ -1,8 +1,10 @@
 ---
 layout: page
-title: What I'm Doing Now - Last updated: 2020-04-10
+title: What I'm Doing Now
 permalink: /now/
 ---
+
+# Last updated: 2020-04-10
 
 ## Cultivation:
 * Continuing with IMC's [Eightfold Path](https://www.insightmeditationcenter.org/2019/08/the-eightfold-path-program-2019-2020/) program, by Zoom.
