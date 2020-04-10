@@ -2,7 +2,7 @@
 layout: post
 title: How to Build a Product in 8 hours at Violet Hacks
 author: christin
-categories: [creativity]
+categories: [creativity, currency]
 image: assets/images/14.jpg
 ---
 Last week I took part in the inaugural [Violet Hacks](https://www.facebook.com/events/2238973432842379/) hosted by The [Violet Society](https://thevioletsociety.com). Our team won second place! To me, the complementary skills and aligned team mission led to our success. I took away a lot from the experience, and would like to share these 5 tips for future hackathon participants.
