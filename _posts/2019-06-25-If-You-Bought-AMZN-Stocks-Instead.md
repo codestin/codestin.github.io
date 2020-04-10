@@ -2,8 +2,7 @@
 layout: post
 title: If You Bought AMZN Stocks Instead
 author: christin
-tags: [featured]
-categories: [ amazon ]
+categories: [currency, creativity]
 image: assets/images/13.jpg
 ---
 
