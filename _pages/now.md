@@ -15,6 +15,7 @@ permalink: /now/
 ## Creativity: 
 * Trying to write imperfect blog entries here and share more of what's top of mind. If not now, when? It's the apocalypse, afterall.
 * Working on a project aimed at honest conversations around connections with family and loved ones, from the Asian perspective.
+* Learning to play [The Shape of Things to Come](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0093764) as heard on Battlestar Galactica on the piano
 
 ## Constitution:
 * Working on left shoulder recovery through daily foam rolling and trigger point self-massage.
