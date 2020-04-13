@@ -34,9 +34,9 @@ In 2019, I had chosen the word "Mastery," though this was before I was aware of 
 I then set out to divide Mastery into 5 categories:
 - Cultivation: all concerns with liberation of the mind, and on a meta-level, adherence to this system
 - Connection: friends and family
-- Constitution: physical  health
-- Creativity: projects
-- Currency: career and finances
+- Constitution: physical health
+- Creativity: work and projects
+- Currency: finances
 
 All to say, similar to Benjamin Franklin's system of 13 virtues. I reduced it to 5 items for myself because we have five fingers on each hand. Yup, that's the arbitrary reason. It also seemed to cover the revolving 5 aspects of my life I tend to think about anyway.
 
