@@ -6,7 +6,7 @@ categories: [Cultivation]
 ---
 
 ## What is A Fool's Reflection?
-This year I had chosen "Hearth" as my Word for 2020 (read more about it here.) It is recommended that one conducts A Fool's Reflection around April 1st, as an arbitrarily-timed check-in for one adherence to the herald set forth. So like what a lot of habit-building books advise, reviewing one's actions after ~3 months and adjust as necessary.
+This year I had chosen "Hearth" as my Word for 2020 (read more about it [here](https://christinchong.com/word).) It is recommended that one conducts A Fool's Reflection around April 1st, as an arbitrarily-timed check-in for one adherence to the herald set forth. So like what a lot of habit-building books advise, reviewing one's actions after ~3 months and adjust as necessary.
 
 ## How's embodying a "Hearth" going so far in 2020?
 I sometimes wonder if I had subconsciously anticipated a lot of this year's dramatic happenings, and chose to focus on providing stabiltiy and community as a result.
