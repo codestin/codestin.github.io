@@ -8,7 +8,7 @@ permalink: /now/
 
 ## Cultivation:
 * Continuing with IMC's [Eightfold Path](https://www.insightmeditationcenter.org/2019/08/the-eightfold-path-program-2019-2020/) program, by Zoom.
-* Hosting [IMC](https://insightmeditationcenter.org) neighborhood Zoom meditation group, monthly.
+* Hosting [IMC](https://insightmeditationcenter.org) neighborhood Zoom meditation group, 2-weekly.
 * Continuing to support [Alliance for Bhikkhunis](https://bhikkhuni.net) especially for COVID-19.
 
 ## Connection: 
