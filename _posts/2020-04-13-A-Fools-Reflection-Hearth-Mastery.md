@@ -32,11 +32,11 @@ So overall, yes, yes, and yes! I am quite pleased with my adherence to my word, 
 In 2019, I had chosen the word "Mastery," though this was before I was aware of Dr. Jason Fox's advice on the pitfalls of such a word. (He explains it much more eloquently than I do, but in essence, these aspirational lofty words tend to be harder to embody, especially with visual imagery.) I had chosen "Mastery" at the time because I find myself admiring those who continue to hone their craft and become the foremost expert. For example, I frequently re-watch this [video](https://www.youtube.com/watch?v=3wAQxJeyyXo) featuring a day in the life of Chef Nozumu Abe from Sushi Noz. This is because his dedication to every sensory input related to the dining experience ignites how I feel I should conduct my life. (Where this sense comes from, isn't as clear--I suspect it's actually because the Hong Kong TV channels I grew up watching often showed clips about Japan's craftspeople!) 
 
 I then set out to divide Mastery into 5 categories:
-- Cultivation: all concerns with liberation of the mind, and on a meta-level, adherence to this system
-- Connection: friends and family
-- Constitution: physical health
-- Creativity: work and projects
-- Currency: finances
+- **Cultivation:** all concerns with liberation of the mind, and on a meta-level, adherence to this system
+- **Connection:** friends and family
+- **Constitution:** physical health
+- **Creativity:** work and projects
+- **Currency:** finances
 
 All to say, similar to Benjamin Franklin's system of 13 virtues. I reduced it to 5 items for myself because we have five fingers on each hand. Yup, that's the arbitrary reason. It also seemed to cover the revolving 5 aspects of my life I tend to think about anyway.
 
