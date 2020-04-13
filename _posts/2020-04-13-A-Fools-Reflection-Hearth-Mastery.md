@@ -20,7 +20,7 @@ I sometimes wonder if I had subconsciously anticipated a lot of this year's dram
 - **Be curious:** Developing internal games for tedious tasks have helped to get things done.
 - **Be companionable:** I have reached out to people that I daren't not before. It got easier.
 - **Be cumulative:** I would like to do a better job gathering the bits and pieces of digital kindling (i.e. creative projects) together on this site.
-- 
+ 
 ### Projects
 - **Channel the energy of Andrew Yang in my vocational pursuits: if anything, I’m going to have the most fun!** I still need to frequently remind myself of this aspiration, but I did manage to pull it off in several hard occasions.
 - **Continue to build micro-communities through meditation, listening, and helping others connect.** Yes, I am doing so [now](https://christinchong.com/now).
