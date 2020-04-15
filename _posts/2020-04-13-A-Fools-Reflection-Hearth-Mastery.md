@@ -9,7 +9,7 @@ categories: [Cultivation]
 This year I had chosen "Hearth" as my Word for 2020 (read more about it [here](https://christinchong.com/word).) It is recommended that one conducts A Fool's Reflection around April 1st, as an arbitrarily-timed check-in for one adherence to the herald set forth. So like what a lot of habit-building books advise, reviewing one's actions after ~3 months and adjust as necessary.
 
 ## How's embodying a "Hearth" going so far in 2020?
-I sometimes wonder if I had subconsciously anticipated a lot of this year's dramatic happenings, and chose to focus on providing stabiltiy and community as a result.
+I sometimes wonder if I had subconsciously anticipated a lot of this year's dramatic happenings, and chose to focus on providing stability and community as a result.
 
 ### Principles
 - **Safety:** Welp, what fiery grounds we find ourselves! I am taking this day-by-day, but I find that my ability to let go in this regard has increased this year despite comically harrowing circumstances.
