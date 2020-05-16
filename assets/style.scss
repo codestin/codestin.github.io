@@ -131,19 +131,19 @@ table tr td :last-child {
 }*/
 
 #search-container {
-  text-align: center;
+  text-align: left;
 }
 
 #search-input {
-  width: 80%;
+  width: 100%;
   padding: 12px 20px;
   margin: 8px 0;
   display: inline-block;
   border: 1px solid #ccc;
   border-radius: 4px;
   box-sizing: border-box;
-  font-size: 18px;
-  background-color: #fff3ff;
+  font-size: 1rem;
+  background-color: #fff;
 }
 
 .share-box {
@@ -172,11 +172,11 @@ span[data-pullquote]:before {
 }
 
 a {
-  color: $blue;
+  color: #F25C05;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: #F28B0C;
   }
 }
 
@@ -420,11 +420,10 @@ body:after {
 }
 
 #bar {
-    background: #333;
+    background: #F25C05;
     height: 7px;
     background-size: cover;
     background-position: left 60%;
-    position: fixed;
     top: 0;
     width: 100%;
     overflow: hidden;
@@ -454,7 +453,7 @@ body:after {
   color: #939aa1;
 }
 
-.post_date{
+.post-date{
   text-align: left;
   color: #939aa1;
 }
@@ -676,18 +675,20 @@ Modules - reusable parts of our design
   line-height: 0;
 }
 
-.post-tags {
-  text-align: center;
-  line-height: 35px;
-}
-
 .post-tags a {
-  font-size: 14.5px;
+  text-align: left;
+
+/*
+  text-align: left;
+  line-height: 1.65rem;
+  font-size: 0.75rem;
   padding: 2px 13px;
   border: none;
-  background-color: #4CAF50;
-  border-radius: 50px;
+  background-color: #590202;
+  border-radius: 100px;
   color: #fff;
+*/
+
 }
 
 .pagination a, .pagination span {
