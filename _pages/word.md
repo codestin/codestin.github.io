@@ -77,3 +77,6 @@ My overt impeding pattern is perfectionism (which Dr. Fox calls "the prettiest o
 - I hope this page led to inquisitiveness about a word of your own. (Or bafflement--a pre-requisite to investigation!) 
 - If you are interested, here is an [affiliate link](https://learn.cleverness.com/word/vposj) to the Choose One Word program. AUD$50.00 will go toward [charities](https://cleverness.com/appeal) for the Australian bushfires, and I will receive AUD$50.00 along with an *enchanted* wizard enamel pin. 
 - The program is flexible and self-directed, and can take anywhere from 3 mins/3 hours/3 weeks/3 months/as long as you want. Just the chapter on "hidden commitments" is well worth the price alone. If concepts such as "infinite games," "seminal invocations," and "why personal branding is yucky" are intriguing, then Dr. Fox is a fine companion for exploring a ritual of becoming. Check out Kevin's [word](https://www.kevinmcgillivray.net/word/) and Dr. Fox's [word](https://www.drjasonfox.com/word) to see their take. Share yours with me and I'll link it here too!
+
+# A Fool's Reflection
+I have since reflected on my Word [here](https://christinchong.com/A-Fools-Reflection-Hearth-Mastery/).
