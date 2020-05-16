@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What I'm Doing Now: Last updated 2020-05-16
+title: What I'm Doing Now - Last updated 2020-05-16
 permalink: /now/
 ---
 
