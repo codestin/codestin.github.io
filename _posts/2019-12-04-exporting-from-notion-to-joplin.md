@@ -2,7 +2,7 @@
 layout: post
 title: Exporting from Notion to Joplin
 author: christin
-categories: [Creativity, Cultivation]
+categories: [Creativity]
 image: assets/images/2019-12-04-01.png
 ---
 
