@@ -13,7 +13,7 @@ I'm proudest of the following:
 - Changed color scheme to match my [Word](https://christinchong.com/word) of 2020 🔥
 - Changed the date display format to [ISO 8601](https://xkcd.com/1179)
 - Moved the category tag to the same line as the date
-- Removed social share links to Twitter, Facebook--I never use these functions on other people's websites, and are antithetical to [Indie Web Principles](https://indieweb.org/principles). 
+- Removed social share links to Twitter, Facebook--I never use these functions on other people's websites, and they are antithetical to [Indie Web Principles](https://indieweb.org/principles). 
 
 I had previously chatted with Kevin about the website and what was bothering me, and I found the process of articulating the exact issues helped me solve them quickly, instead of being stranded in the vagueness of "this looks off." Here are some screenshots from our conversations--the annotations look hilariously messy too, because I did them quickly using the Preview app.
 
