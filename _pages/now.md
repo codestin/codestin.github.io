@@ -13,7 +13,7 @@ permalink: /now/
 * COVID-19 New World continues. Washing hands furiously with Jewel's [song](https://www.youtube.com/watch?v=qr8UJ6I3My4) stuck in my head.
 
 ## Creativity: 
-* Trying to write imperfect blog entries here and share more of what's top of mind. If not now, when? It's the apocalypse, afterall.
+* Thrilled to have finally figured out how to update my website with a decent web developer environment setup. Planning to continue to tweak and share "sticking this on the fridge" level thoughts.
 * Learning to play [The Shape of Things to Come](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0093764) as heard on Battlestar Galactica, on the piano.
 * Building the [Rickshaw](https://busterbenson.github.io/rickshaw/) community and lore. Transplanting Meaningful Conversations project to here.
 
