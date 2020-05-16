@@ -5,7 +5,7 @@ author: christin
 categories: [Creativity]
 ---
 
-I took some time to properly set up a web developer environment with this useful [shell script](https://github.com/monfresh/laptop) to make it easier to update this website. I was using the web editor (!) to make changes, which is quite inefficient, with changing CSS all but impossible except for the most patient of folks.
+I took some time to properly set up a web developer environment with this useful [shell script](https://github.com/monfresh/laptop) for updating this website. I was using the web editor (!) to make changes, which is quite inefficient, with changing CSS all but impossible except for the most patient of folks.
 
 I'm proudest of the following:
 - Finding a font I really like--you are looking at Merriweather Light (font weight of 300), inspired by [The Plain Text Project](https://plaintextproject.online/)
