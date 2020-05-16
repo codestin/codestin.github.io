@@ -5,7 +5,7 @@ author: christin
 categories: [Creativity]
 ---
 
-I took some time to properly set up a web developer environment with this useful [shell script](https://github.com/monfresh/laptop) for updating this website. I was using the Github web editor (!) which made updating CSS all but impossible except for the most patient of folks.
+I took some time to properly set up a web developer environment with this useful [shell script](https://github.com/monfresh/laptop). I was using the Github web editor (!) which without live preview, made it very challenging to update the CSS. But now I'm all set up to develop locally and git push to the server when ready!
 
 I'm proudest of the following:
 - Found a font I really like--you are looking at Merriweather Light (font weight of 300), inspired by [The Plain Text Project](https://plaintextproject.online/)
