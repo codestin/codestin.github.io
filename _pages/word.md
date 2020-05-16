@@ -40,11 +40,12 @@ If the chosen word is the North Star, then principles are the surrounding conste
 1. **Safety**: An invocation bring myself more financial, physical, and emotional safety, so I can offer it to others.
 2. **Space**: An invitation to honor my capacity in building community, yet ensuring personal space for regenerating energy. Be a hearth, not a furnace:
 
-	  >*“When I run after what I think I want,
-	  my days are a furnace of stress and anxiety;
-	  If I sit in my own place of patience,
-	  What I need flows to me, and without pain."
-	  Shams-i Tabrizi*
+	  >“When I run after what I think I want,
+	  > my days are a furnace of stress and anxiety;
+	  > If I sit in my own place of patience,
+	  > What I need flows to me, and without pain."
+	  
+	  > ~ Shams-i Tabrizi
 
 3. **Substantiate**: An incantation to create works of substance instead of subsuming works of others.
 
