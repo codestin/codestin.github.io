@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /categories/
-title: Categories
+permalink: /commonplace/
+title: Commonplace
 ---
 
 
@@ -16,11 +16,23 @@ title: Categories
     <a name="{{ category_name | slugize }}"></a>
     {% for post in site.categories[category_name] %}
     <article class="archive-item">
-      <a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a>
+    ·   
+      <a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a>   
+
+          {% for tag in page.tags %}
+          {% capture tag_name %}{{ tag }}{% endcapture %}
+          <a href="/tag/{{ tag_name }}"><nobr>{{ tag_name }}</nobr></a>
+          {% endfor %}
+
+
     </article>
     {% endfor %}
 
 {% endfor %}
+
+
+
+
 {% include archive.html %}
   </div>
 </div>
