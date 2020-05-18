@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: Word"
-tag: Word
+title: "Tag: Tools"
+tag: Tools
 robots: noindex
 ---
