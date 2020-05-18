@@ -19,12 +19,14 @@ layout: default
       {% endfor %}
 
          ·   
+  {% for post in site.categories[category_name] %}
+    <article class="archive-item">
 
-  {% for tag in page.tags %}
-    {% capture tag_name %}{{ tag }}{% endcapture %}
-    <a href="/tag/{{ tag_name }}"><nobr>{{ tag_name }}</nobr></a>
-  {% endfor %}
-
+          {% for tag in post.tags %}
+          {% capture tag_name %}{{ tag }}{% endcapture %}
+          <a href="/tag/{{ tag_name }}"><nobr>{{ tag_name }}</nobr></a>
+          {% endfor %}
+    {% endfor %}
     {% if page.last_modified_at %}
     <p class="author_title" datetime="{{ page.last_modified_at | date_to_xmlschema }}">(Updated: {{ page.last_modified_at | date: "%b %-d, %Y" }})
     {% endif %}

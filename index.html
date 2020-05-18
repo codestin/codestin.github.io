@@ -20,6 +20,12 @@ layout: default
         {% unless forloop.last %}   ·   {% endunless %}
       {% endfor %}
 
+   >>   
+
+     {% for tag in post.tags %}
+          {% capture tag_name %}{{ tag }}{% endcapture %}
+          <a href="/tag/{{ tag_name }}"><nobr>{{ tag_name }}</nobr></a>
+          {% endfor %}
 
           </p>
         </div>
