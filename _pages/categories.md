@@ -16,13 +16,13 @@ title: Commonplace
     <a name="{{ category_name | slugize }}"></a>
     {% for post in site.categories[category_name] %}
     <article class="archive-item">
-    ·   
-      <a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a>   
 
-          {% for tag in page.tags %}
+          {% for tag in post.tags %}
           {% capture tag_name %}{{ tag }}{% endcapture %}
           <a href="/tag/{{ tag_name }}"><nobr>{{ tag_name }}</nobr></a>
           {% endfor %}
+    ·   
+      <a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a>   
 
 
     </article>
@@ -30,7 +30,8 @@ title: Commonplace
 
 {% endfor %}
 
-<h1>Tags</h1>
+<!--
+<h1>All Tags</h1>
 {% capture temptags %}
   {% for tag in site.tags %}
     {{ tag[1].size | plus: 1000 }}#{{ tag[0] }}#{{ tag[1].size }}
@@ -42,6 +43,6 @@ title: Commonplace
   {% capture tagname %}{{ tagitems[1] }}{% endcapture %}
   <a href="/tag/{{ tagname }}"><nobr>{{ tagname }}</nobr></a>
 {% endfor %}
-
+-->
   </div>
 </div>

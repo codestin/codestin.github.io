@@ -3,7 +3,7 @@ layout: post
 title: Exporting from Notion to Joplin
 author: christin
 categories: [Creativity]
-tags: notetaking-system
+tags: Notetaking-system
 ---
 
 I made the switch from using Notion to exploring Joplin, because Notion lacked the ability to access offline. Since I am often spending time outside without internet access, it became quite a pain to not have my various notes and to-do lists handy.

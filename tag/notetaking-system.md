@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: notetaking-system"
-tag: notetaking-system
+title: "Tag: Notetaking-system"
+tag: Notetaking-system
 robots: noindex
 ---

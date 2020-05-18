@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: Webdev"
-tag: Webdev
+title: "Tag: Blog"
+tag: Blog
 robots: noindex
 ---
