@@ -3,6 +3,7 @@ layout: post
 title: Updated Website Look and Feel
 author: christin
 categories: [Creativity]
+tags: webdev
 ---
 
 I took some time to properly set up a web developer environment with this useful [shell script](https://github.com/monfresh/laptop). I was using the Github web editor (!) which without live preview, made it very challenging to update the CSS. But now I'm all set up to develop locally and git push to the server when ready!
