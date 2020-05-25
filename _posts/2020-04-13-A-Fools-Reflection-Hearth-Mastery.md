@@ -3,7 +3,7 @@ layout: post
 title: A Fool's Reflection on Hearth and Mastery
 author: christin
 categories: [Cultivation]
-tags: Word
+tags: word
 ---
 
 ## What is A Fool's Reflection?

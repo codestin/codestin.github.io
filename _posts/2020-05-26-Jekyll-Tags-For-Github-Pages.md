@@ -3,7 +3,7 @@ layout: post
 title: Jekyll Tags for Github Pages
 author: christin
 categories: [Creativity]
-tags: Webdev
+tags: webdev
 ---
 
 I was stuck on generating tags for posts using Jekyll hosted by Github Pages. Github Pages is great because it is free and integrated into the github's version control, but they do not allow most Ruby Gems like...jekyll-tags! After a lot of hunting on the internet, I would like to sing some praises for these [instructions](https://longqian.me/2017/02/09/github-jekyll-tag/) by Long Qian, because they were the only ones that worked for me in a straightforward way. 

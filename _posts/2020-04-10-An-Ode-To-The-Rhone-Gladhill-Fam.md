@@ -3,7 +3,7 @@ layout: post
 title: An Ode to The Rhone and Gladhill Fam
 author: christin
 categories: [Connection]
-tags: Blog
+tags: blog
 ---
 
 I have been an avid reader of Patrick Rhone's writing for more than a decade. This ranged from his famous blog, [Minimal Mac](https://minimalmac.com/), to his [published works](https://patrickrhone.com/). I make it a point to re-read [Some Thoughts About Writing](https://gum.co/ZBEx) and [This Could Help](http://www.lulu.com/shop/patrick-rhone/this-could-help/paperback/product-21907166.html) every year to reinvigorate my spirit. Even now, I follow his personal [blog](https://www.patrickrhone.net/) and his site dedicated to analog writing tools called [The Cramped](https://thecramped.com). I subsume his wife Bethany Gladhill's [blog](https://prologuist.com) too, as she is an equally fantastic writer. I enjoy getting a glimpse at their family's cozyness, like when they make [lefse](https://prologuist.blogspot.com/2019/12/lefse.html) together for Christmas. Their daughter will become [president](https://www.patrickrhone.net/7016-2/) one day.

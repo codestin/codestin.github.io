@@ -4,7 +4,7 @@ title: If You Bought AMZN Stocks Instead
 author: christin
 categories: [Currency]
 image: assets/images/13.jpg
-tags: Finances
+tags: finances
 ---
 
 Have you ever wondered, what if I had used the money I spend shopping on Amazon on AMZN stock instead? Here’s a gSheet tool that uses data exported from your Amazon account to calculate AMZN stock price on the day you bought something, how many shares you could have acquired, and how much the shares are worth today:
