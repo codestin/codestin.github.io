@@ -4,6 +4,17 @@ permalink: /commonplace/
 title: Commonplace
 ---
 
+Cultivation - the art of cultivating mindfulness, wisdom, and stillness, while clearing out mental delusions and clinging. May include sharing of life principles, long-term goals.
+
+Connection - the art of reading, speaking, and listening. May include subsuming of blogs, books, and other media.
+
+Creativity - the art of making, writing, and playing. May include projects such as this website.
+
+Constitution - the art of living well. May include physical health discussions, living spaces, cooking.
+
+Currency - the art of caring for one's requisites in sustaining life. May include budgeting, financial independence discussions.
+
+
 
 <div id="archives">
 {% for category in site.categories %}
