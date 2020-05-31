@@ -2,7 +2,7 @@
 layout: post
 title: How to Build a Product in 8 hours at Violet Hacks
 author: christin
-categories: [Currency]
+categories: [Creativity]
 image: assets/images/14.jpg
 tags: hackathon
 ---
