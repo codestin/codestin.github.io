@@ -1,1 +1,1 @@
-This is where [https://christinchong.com](https://christinchong.com), my personal website, is hosted.
+This is where [https://christinchong.com](https://christinchong.com), my personal website, *was* hosted. I have since moved on to using [https://notion.so](Notion) with [https://fruitionsite.com](Fruition)!
